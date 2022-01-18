@@ -1,1 +1,1 @@
-export const SAMPLE = 'SampleScreen';
+export const BOOKS = 'BooksScreen';

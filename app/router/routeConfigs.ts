@@ -1,8 +1,8 @@
 import * as routeNames from './routeNames';
 
 const routeConfigs = {
-  [routeNames.SAMPLE]: {
-    path: '/sample',
+  [routeNames.BOOKS]: {
+    path: '/books',
   },
 };
 

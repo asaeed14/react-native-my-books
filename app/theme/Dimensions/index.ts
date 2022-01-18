@@ -37,6 +37,8 @@ const dim = {
   fontCaption: 11,
 
   borderRadius: 3,
+  borderRadius2x: 3,
+  borderRadius3x: 9,
 
   inputHeight: 44,
   headerContentHeight,

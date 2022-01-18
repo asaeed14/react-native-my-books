@@ -1,12 +1,12 @@
-import SampleScreen from 'screens/SampleScreen';
+import BooksScreen from 'screens/BooksScreen';
 
 import routeConfigs from './routeConfigs';
 import * as routeNames from './routeNames';
 
 const routes = {
-  [routeNames.SAMPLE]: {
-    ...routeConfigs[routeNames.SAMPLE],
-    screen: SampleScreen,
+  [routeNames.BOOKS]: {
+    ...routeConfigs[routeNames.BOOKS],
+    screen: BooksScreen,
   },
 };
 
