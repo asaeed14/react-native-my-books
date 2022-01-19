@@ -13,6 +13,9 @@ Sample application to view list of books
 - Image Cache with "react-native-fast-image"
 - Native Level Animation Loader
 
+-- Check Redux part in "app/container/Booklisting"
+-- Check screen in "app/screens/BooksScreen"
+
 ## Example  🚀
 
 ![Book Listing Screen](https://github.com/asaeed14/react-native-my-books/blob/master/app/images/bookListing.gif)
